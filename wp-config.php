@@ -20,6 +20,8 @@
 
 // ** Configurações do banco de dados - Você pode pegar estas informações com o serviço de hospedagem ** //
 /** O nome do banco de dados do WordPress */
+define('WP_CACHE', true);
+define( 'WPCACHEHOME', 'C:\xampp\htdocs\Blog-Fofoca\wp-content\plugins\wp-super-cache/' );
 define( 'DB_NAME', 'blog_fofoca' );
 
 /** Usuário do banco de dados MySQL */
