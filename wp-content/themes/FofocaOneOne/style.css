@@ -1,0 +1,17 @@
+/*
+Theme name: FofocaOneOne
+Theme URI: https://github.com/kaikdandrade/Wordpress.org-Blog-Fofoca
+Author: Kaik D' Andrade
+Author URI: https://github.com/kaikdandrade
+Description: Tema modelo para WordPress.
+Version: 0.1
+License: MIT License
+License URI: https://opensource.org/license/mit/
+Tags: Básico, branco, simples.
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
